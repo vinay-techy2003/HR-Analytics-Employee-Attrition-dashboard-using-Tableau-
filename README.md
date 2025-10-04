@@ -20,3 +20,10 @@ Analyzed employee data to identify key factors affecting attrition such as salar
 
 # Dashboard
 <a href="https://github.com/vinay-techy2003/HR-Analytics-Employee-Attrition-dashboard-using-Tableau-/blob/main/Screenshot%202025-10-03%20164355.png">View Dashboard</a>
+
+# Project Insights
+
+-In department wise the R&D have the high Attrition and HR have the low Attrition.
+-In Education wise the Life Sciences has the highest Attrition(~89).
+-According to the gender wise the male have the highest Attrition Rate compare to the women.
+-Most of the people are willing to do the job role like Sales Executive Research Scientist and Laboratory Technician.
