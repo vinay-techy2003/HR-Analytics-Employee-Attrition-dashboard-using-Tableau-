@@ -17,3 +17,6 @@ Analyzed employee data to identify key factors affecting attrition such as salar
 - Find the attrition by Education wise ?
 - Find the rate by gender for different age group ?
 - dashboard interaction <a href="https://github.com/vinay-techy2003/HR-Analytics-Employee-Attrition-dashboard-using-Tableau-/blob/main/Screenshot%202025-10-03%20164355.png">View Dashboard</a>
+
+# Dashboard
+<a href="https://github.com/vinay-techy2003/HR-Analytics-Employee-Attrition-dashboard-using-Tableau-/blob/main/Screenshot%202025-10-03%20164355.png">View Dashboard</a>
