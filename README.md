@@ -27,3 +27,7 @@ Analyzed employee data to identify key factors affecting attrition such as salar
 -In Education wise the Life Sciences has the highest Attrition(~89).
 -According to the gender wise the male have the highest Attrition Rate compare to the women.
 -Most of the people are willing to do the job role like Sales Executive Research Scientist and Laboratory Technician.
+
+# Final Conclusion
+
+To decrease the Attrition rate the HR may hire the Female candidates more to decrease the Attrition Rate because male candidates have more Attrition Rate than Females And also the HR doesnot hire the candidates between the 25-34 Age group.
