@@ -10,7 +10,7 @@ Analyzed employee data to identify key factors affecting attrition such as salar
 <a href="https://github.com/vinay-techy2003/HR-Analytics-Employee-Attrition-dashboard-using-Tableau-/blob/main/HR%20Data.xlsx">HR DATA</a>
 ## Questions (KPIs)
 
-- Find Employee Count Attrition count Active employees and Attrition Rate ?
+- Find Employee Count,Attrition count,Active employees and Attrition Rate ?
 - Find the Attrition by department wise ?
 - Find Job Satisfaction Rating According to the job role ?
 - Who attrition is more - male or female ?
